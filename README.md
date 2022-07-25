@@ -1,3 +1,5 @@
+[Blog post](https://blogs.sap.com/2021/08/21/cheat-sheet-for-uri-patterns-for-calling-odata-actions-and-functions/)
+
 # Getting Started
 
 Welcome to your new project.
